@@ -1,0 +1,21 @@
+div
+{
+    background-color: #ffffcc;
+}
+
+span
+{
+    font-family: sans-serif;
+}
+
+h2
+{
+    color: #1a8be1
+}
+
+.header 
+{
+    padding: 10px;
+
+    border-left: 6px solid #E5C03D;
+}

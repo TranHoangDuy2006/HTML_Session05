@@ -1,0 +1,20 @@
+img
+{
+    float: left; /* Đẩy phần tử ảnh sang bên trái */
+    
+    width: 500px;
+    
+    height: 300px;
+    
+    margin-right: 10px; /* Tạo khoảng cách giữa bảng và ảnh */
+}
+
+h1
+{
+    font-size: 50px;
+}
+
+p
+{
+    font-size: 30px;
+}

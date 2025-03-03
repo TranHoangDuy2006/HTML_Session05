@@ -1,0 +1,28 @@
+img
+{
+    width: 300px;
+}
+
+span
+{
+    text-decoration: underline dotted;
+
+    color: #03ff74
+}
+
+div
+{
+    background-color: black;
+}
+
+.img1
+{
+    width: 300px;
+    
+    height: 225px;
+}
+
+h1
+{
+    color: white
+}
